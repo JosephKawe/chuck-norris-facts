@@ -39,7 +39,7 @@ const App: React.FC = () => {
       <Header />
       <img 
         src={chuckDanceGif} 
-        className="w-20 sm:w-24 xs:landscape:mt-10 sm:landscape:mt-2 md:w-28 z-50" 
+        className="w-20 sm:w-24 xs:landscape:mt-10 sm:landscape:mt-2 md:w-28 z-40" 
         alt="Chuck Norris dancing" 
         aria-label="Chuck Norris dancing"
       />
